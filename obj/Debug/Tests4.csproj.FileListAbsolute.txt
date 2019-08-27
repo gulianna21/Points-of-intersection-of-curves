@@ -1,0 +1,19 @@
+C:\Users\Юлия\Documents\Visual Studio 2015\Projects\Tests4\Tests4\bin\Debug\Tests4.exe.config
+F:\Tests4\Tests4\bin\Debug\Tests4.exe.config
+F:\Tests4\Tests4\bin\Debug\Tests4.exe
+F:\Tests4\Tests4\bin\Debug\Tests4.pdb
+F:\Tests4\Tests4\obj\Debug\Tests4.csprojResolveAssemblyReference.cache
+F:\Tests4\Tests4\obj\Debug\Tests4.exe
+F:\Tests4\Tests4\obj\Debug\Tests4.pdb
+C:\Users\Юлия\Desktop\Tests4\Tests4\bin\Debug\Tests4.exe.config
+C:\Users\Юлия\Desktop\Tests4\Tests4\obj\Debug\Tests4.exe
+C:\Users\Юлия\Desktop\Tests4\Tests4\obj\Debug\Tests4.pdb
+C:\Users\Hanzo\Desktop\Tests4\Tests4\bin\Debug\Tests4.exe.config
+C:\Users\Hanzo\Desktop\Tests4\Tests4\obj\Debug\Tests4.exe
+C:\Users\Hanzo\Desktop\Tests4\Tests4\obj\Debug\Tests4.pdb
+C:\Users\Юлия\Desktop\Teats_Dima\Tests4\Tests4\bin\Debug\Tests4.exe.config
+C:\Users\Юлия\Desktop\Teats_Dima\Tests4\Tests4\obj\Debug\Tests4.exe
+C:\Users\Юлия\Desktop\Teats_Dima\Tests4\Tests4\obj\Debug\Tests4.pdb
+C:\Users\Юлия\Desktop\Teats_Dima\Tests4\Tests4\obj\Debug\Tests4.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\Desktop\Teats_Dima\Tests4\Tests4\bin\Debug\Tests4.exe
+C:\Users\Юлия\Desktop\Teats_Dima\Tests4\Tests4\bin\Debug\Tests4.pdb
